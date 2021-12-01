@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\bin\Debug\MP3_Player_Demo.exe.config
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\bin\Debug\MP3_Player_Demo.exe
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\bin\Debug\MP3_Player_Demo.pdb
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.Form1.resources
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.Properties.Resources.resources
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.exe
+C:\Users\HP\source\repos\MP3_Player_Demo\MP3_Player_Demo\obj\Debug\MP3_Player_Demo.pdb
