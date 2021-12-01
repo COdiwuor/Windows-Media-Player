@@ -27,17 +27,8 @@ namespace MP3_Player_Demo
 
                 if (openFile.ShowDialog() == DialogResult.OK)
                 {
-                    //files = openFile.SafeFileNames;
-                    //path = openFile.FileNames;
-                    //for (int i = 0; i < files.Length; i++)
-                    //{
-                    //    if (listBox1 != null && files.Length != 0)
-                    //    {
-                    //        listBox1.Items.Add(files[i]);
-                    //    }
 
-                    //}
-                    //look for a way to add multiple filles
+                    //look for a way to add multiple files
                     List<MediaFile> files = new List<MediaFile>();
                     foreach (string filename in openFile.FileNames)
                     {
