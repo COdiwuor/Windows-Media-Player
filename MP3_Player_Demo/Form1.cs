@@ -65,5 +65,6 @@ namespace MP3_Player_Demo
                 axWindowsMediaPlayer1.Ctlcontrols.previous();
             }
         }
+        //add timer between the videos
     }
 }
