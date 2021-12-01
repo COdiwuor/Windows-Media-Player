@@ -22,7 +22,7 @@ namespace MP3_Player_Demo
         private void button1_Click(object sender, EventArgs e)
         {
 
-            using (OpenFileDialog openFile = new OpenFileDialog() { Multiselect = true, ValidateNames = true, Filter = "WMV|* .wmv|WAV|* .wav|MP3|*.mp3|MP4|*.mp4|MKV|*.mkv " })
+            using (OpenFileDialog openFile = new OpenFileDialog() { Multiselect = true, ValidateNames = true, Filter = "MP4|*.mp4|MP3|*.mp3|WMV|* .wmv|WAV|* .wav|MKV|*.mkv " })
             {
 
                 if (openFile.ShowDialog() == DialogResult.OK)
@@ -47,8 +47,6 @@ namespace MP3_Player_Demo
                     listBox1.DataSource = files;
                     listBox1.ValueMember = "Path";
                     listBox1.DisplayMember = "FileName";
-
-
                 }
             }
         }
