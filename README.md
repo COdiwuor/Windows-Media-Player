@@ -1,4 +1,4 @@
 # Windows-Media-Player
 A sample Windows media Player using Windows Forms.(C#)
 
-![Media Player](https://user-images.githubusercontent.com/28431746/144292169-a00ac340-e592-4e40-9192-5c94f441f99b.JPG)
+![Capture](https://user-images.githubusercontent.com/28431746/144293270-ab1230aa-a032-4877-a203-ef4b7814d673.JPG)
