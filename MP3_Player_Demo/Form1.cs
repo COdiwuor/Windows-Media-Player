@@ -11,10 +11,10 @@ using System.IO;
 
 namespace MP3_Player_Demo
 {
-    public partial class Form1 : Form
+    public partial class PPPTV : Form
     {
         string[] files, path;
-        public Form1()
+        public PPPTV()
         {
             InitializeComponent();
         }

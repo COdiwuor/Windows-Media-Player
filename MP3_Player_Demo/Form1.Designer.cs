@@ -1,7 +1,7 @@
 ﻿
 namespace MP3_Player_Demo
 {
-    partial class Form1
+    partial class PPPTV
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace MP3_Player_Demo
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PPPTV));
             this.axWindowsMediaPlayer1 = new AxWMPLib.AxWindowsMediaPlayer();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -65,7 +65,7 @@ namespace MP3_Player_Demo
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // PPPTV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -73,8 +73,8 @@ namespace MP3_Player_Demo
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.axWindowsMediaPlayer1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "PPPTV";
+            this.Text = "PPPTV";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
             this.ResumeLayout(false);
