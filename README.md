@@ -1,4 +1,4 @@
-# Windows-Media-Player
+# Windows-Media-Player(WINFORMS)
 A sample windows media player using Windows Forms.(C#)<br>
 The first version of Windows Media Player appeared in 1991, when Windows 3.0 with Multimedia Extensions was released.
 The current demo uses C# Version 9.0
