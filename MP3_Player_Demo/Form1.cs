@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
@@ -13,7 +7,6 @@ namespace MP3_Player_Demo
 {
     public partial class PPPTV : Form
     {
-        string[] files, path;
         public PPPTV()
         {
             InitializeComponent();
@@ -46,12 +39,14 @@ namespace MP3_Player_Demo
         {
             axWindowsMediaPlayer1.Ctlcontrols.next();
             axWindowsMediaPlayer1.Ctlcontrols.previous();
+           
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             listBox1.ValueMember = "Path";
             listBox1.DisplayMember = "FileName";
+            
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -65,6 +60,7 @@ namespace MP3_Player_Demo
                 axWindowsMediaPlayer1.Ctlcontrols.previous();
             }
         }
+
         //add timer between the videos
     }
 }
